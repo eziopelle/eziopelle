@@ -14,6 +14,8 @@ Je suis Victor, passionné par le dev et l’entrepreneuriat 📣🚀
 <br>
 ▶︎ Relationnel - Aisance orale
 
+▶︎ Flutter
+<br>
 ▶︎ Ruby & Ruby on Rails 
 <br>
 ▶︎ HTML - CSS - Javascript
