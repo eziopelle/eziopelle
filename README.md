@@ -6,6 +6,8 @@ Je suis Victor, passionné par le dev et l’entrepreneuriat 📣🚀
 <br>
 ▶︎ Produit & Gestion de projet
 <br>
+▶︎ Développement Mobile
+<br>
 ▶︎ Développement web
 <br>
 ▶︎ Graphisme & Communication 
